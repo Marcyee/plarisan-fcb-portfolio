@@ -34,7 +34,7 @@ img {
 /* ID selector */
 #landing {
 	/* viewport height -- determined or measured percentage of the height of the device you are viewing your webpage in*/
-	height: 90vh;
+	height: 100vh;
 	/* flexible responsive layouts from left to right */
 	display: flex;
 	/* these properties are dependent on display: flex */
